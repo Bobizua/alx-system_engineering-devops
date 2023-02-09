@@ -1,2 +1,0 @@
-#!/bin/bash
-chown 644 hello
