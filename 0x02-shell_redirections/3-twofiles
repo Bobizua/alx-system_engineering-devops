@@ -1,2 +1,0 @@
-#!/bin/bash
-cat -m /etc/hello /etc/hosts
